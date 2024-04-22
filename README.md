@@ -15,7 +15,7 @@ So, here I am!
 - Git and GitHub - version control
 - LaTeX
 
-I'm a purpose-driven individual, eager to devote my working hours to a great cause. I'd love to be involved in building a sustainable future, progressive approaches to healthcare, or simply improving the lives of people in difficult circumstances.  
+I'm a purpose-driven individual, eager to devote my working hours to a great cause. I'd love to be involved in building a sustainable future, progressive approaches to healthcare, or simply improving people's day to day lives.  
 <!--
 **armazzer/armazzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
