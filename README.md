@@ -1,6 +1,6 @@
 ### Hi, I'm Alice 👋
 
-I have a PhD in Biochemical Engineering and worked for several years in the biotechnology and pharmaceutical sectors. Over the years I discovered my fascination with data, so decided to upskill by completing an intensive coding and data analytics course with [AiCore](https://www.theaicore.com/).
+I have a PhD in Biochemical Engineering and have worked for several years in the biotechnology and pharmaceutical sectors. Over the years I discovered my fascination with data, so decided to upskill by completing an intensive coding and data analytics course with [AiCore](https://www.theaicore.com/).
 \
 So, here I am! 
 ### Techniques
